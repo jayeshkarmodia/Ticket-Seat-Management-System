@@ -183,7 +183,7 @@ All booking-related inserts are performed in one database transaction.
 0. Exit
 ```
 
-## Important DBMS Concepts Demonstrated
+### Important DBMS Concepts Demonstrated
 
 - Primary keys
 - Foreign keys
