@@ -22,7 +22,7 @@ A **MySQL + Python terminal-based DBMS project** for managing events, shows, scr
 - SQL schema, sample data and demonstration queries
 - ER diagram and architecture diagram
 
-## Technology Stack
+###Technology Stack
 
 - **Python 3**
 - **MySQL 8.x**
