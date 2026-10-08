@@ -1,6 +1,6 @@
 ﻿# Ticket & Seat Management System
 
-A **MySQL + Python terminal-based DBMS project** for managing events, shows, screens, seats, customers, bookings,payments and tickets.
+A **MySQL + Python terminal-based DBMS project** for managing events, shows, screens, seats, customers, bookings, payments and tickets.
 
 ## Features
 
