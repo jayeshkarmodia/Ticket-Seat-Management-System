@@ -166,7 +166,6 @@ Create Ticket
 All booking-related inserts are performed in one database transaction.
 
 ## Example Menu
-
 ```text
 ========================================================================
                   TICKET & SEAT MANAGEMENT SYSTEM
